@@ -10,7 +10,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Dataset
 
-1. To reporduce the results, download the CHikusei Testset (samples) at this link: [https://example.com]([https://example.com](https://drive.google.com/file/d/1hsE4uxQgHTZK-0amcCYIzFTAz5JRnipj/view?usp=share_link))
+1. To reporduce the results, download the CHikusei Testset (samples) at this link: [https://example.com(https://drive.google.com/file/d/1hsE4uxQgHTZK-0amcCYIzFTAz5JRnipj/view?usp=share_link)
 2. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
