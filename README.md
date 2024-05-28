@@ -5,7 +5,7 @@ Code for reproducing results in paper "Equivariant Imaging for Self-supervised H
 
 1. To reporduce the results, download the Chikusei test set (samples) at this link: [Chikusei_Test_5_images.mat](https://drive.google.com/file/d/1hsE4uxQgHTZK-0amcCYIzFTAz5JRnipj/view?usp=share_link). Or alternatively, you could download the whole dataset at [Chikusei Full Image](https://naotoyokoya.com/Download.html) and randomly crop it to the desired size.
 2. put the .mat file into the "Test_HSI_Samples" folder.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- USAGE EXAMPLES -->
 ## Model training
@@ -13,7 +13,7 @@ Code for reproducing results in paper "Equivariant Imaging for Self-supervised H
 ```bash
 $ python train.py
 ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Testing
 ```bash
